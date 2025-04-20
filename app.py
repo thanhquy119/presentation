@@ -311,6 +311,6 @@ elif menu == "Trợ giúp":
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center">
-    <p>© 2025 HISTORY WHEELS</p>
+    <p>© 2025 HISTORIC WHEELS</p>
 </div>
 """, unsafe_allow_html=True)
